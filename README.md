@@ -1,1 +1,1 @@
-https://taha-khaled.github.io/Face-Detection-App/
+https://taha-khaled.github.io/FaceDetectionApp/
