@@ -1,13 +1,16 @@
 /* Add a background color to the top navigation */
 .topnav {
+  position: fixed;
   background-color: #4064ac;
-  align-items: center;
   color: white;
   font-weight: bold;
-  width: 90%;
-  padding: 0px 100px;
-  font-size: 1.3vw;
-  overflow: auto;
+  width: 100%;
+  font-size: 28px;
+  overflow: hidden;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 15;
 }
 
 /* Style the links inside the navigation bar */
@@ -15,7 +18,8 @@
   color: white;
   text-align: center;
   text-decoration: none;
-  padding: 23px;
+  padding: 22px 10px;
+  line-height: 30px;
 }
 
 /* Change the color of links on hover */
@@ -29,9 +33,10 @@
   margin: 0;
 }
 .home {
-  float: left;
-  padding: 1.13rem;
   margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 10px;
 }
 .topnav img {
   width: 3rem;

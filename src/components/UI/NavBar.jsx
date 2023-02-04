@@ -3,8 +3,8 @@ import logo from "../assits/electronics.png";
 const NavBar = (props) => {
   return (
     <div className="topnav">
-      <img src={logo} alt="" />
       <div className="home">
+        <img src={logo} alt="" />
         <span style={{ marginRight: 15 }}>Face Detection App</span>
         <a
           className={props.Checker.post ? "active" : ""}

@@ -49,7 +49,7 @@ function App() {
     setFile(event.target.files[0]);
   };
   return (
-    <div>
+    <>
       <NavBar
         Checker={Checker}
         postClicked={postClicked}
@@ -82,7 +82,7 @@ function App() {
       <div className="footer">
         <span>© tahakhaledabdellah@gmail.com</span>
       </div>
-    </div>
+    </>
   );
 }
 
