@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/FaceDetectionApp/static/css/main.34e9270d.chunk.css",
+    "main.js": "/FaceDetectionApp/static/js/main.a0672804.chunk.js",
+    "main.js.map": "/FaceDetectionApp/static/js/main.a0672804.chunk.js.map",
+    "runtime-main.js": "/FaceDetectionApp/static/js/runtime-main.cf80b58c.js",
+    "runtime-main.js.map": "/FaceDetectionApp/static/js/runtime-main.cf80b58c.js.map",
+    "static/js/2.b633ef04.chunk.js": "/FaceDetectionApp/static/js/2.b633ef04.chunk.js",
+    "static/js/2.b633ef04.chunk.js.map": "/FaceDetectionApp/static/js/2.b633ef04.chunk.js.map",
+    "index.html": "/FaceDetectionApp/index.html",
+    "static/css/main.34e9270d.chunk.css.map": "/FaceDetectionApp/static/css/main.34e9270d.chunk.css.map",
+    "static/js/2.b633ef04.chunk.js.LICENSE.txt": "/FaceDetectionApp/static/js/2.b633ef04.chunk.js.LICENSE.txt",
+    "static/media/electronics.cb9b030e.png": "/FaceDetectionApp/static/media/electronics.cb9b030e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf80b58c.js",
+    "static/js/2.b633ef04.chunk.js",
+    "static/css/main.34e9270d.chunk.css",
+    "static/js/main.a0672804.chunk.js"
+  ]
+}
