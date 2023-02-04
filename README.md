@@ -1,2 +1,2 @@
 # FaceDetectionApp
-# Live : https://reactfacedetectionapp.herokuapp.com/
+# Live : https://faceappdetection.netlify.app/
