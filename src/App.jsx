@@ -80,7 +80,7 @@ function App() {
         </div>
       )}
       <div className="footer">
-        <span>© tahaUiDeveloper@gmail.com</span>
+        <span>© tahakhaledabdellah@gmail.com</span>
       </div>
     </div>
   );
